@@ -3,8 +3,8 @@
 ## Requirement: 
 1. Understand the design and purpose of ERC-3525.
 2. Implement a similar 3525 program token on Solana, using the Rust programming language.
-  2.1 Define clear interfaces and data structures, especially the relationship between tokenId, slot, and value.
-  2.2 Implement three core methods: mint, burn, and transfer.
+   1. Define clear interfaces and data structures, especially the relationship between tokenId, slot, and value.
+   2. Implement three core methods: mint, burn, and transfer.
 
 ## Expected results:
 1. Deployed program ID in devnet or testnet.
